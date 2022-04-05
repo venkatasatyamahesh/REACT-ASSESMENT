@@ -13,8 +13,44 @@
 <body>
     <div id="root"></div>
     <script type="text/babel">
-//React Code here
- ReactDOM.render(<div></div>,document.getElementById('root'));
+// //React Code here
+// function Component(){
+//   return (<div className="start">
+//   <div className="color">
+//   <div className="yellow"></div>
+//   <div className="yellow"></div>
+//   </div>
+//   <div className ="color">
+//   <div className="red">
+//   </div>
+//   </div>
+//   <div className="color"> 
+//     <div className="blue"> </div>
+//     <div className="blue"> </div>
+//     <div className="blue"> </div>
+
+  
+//   </div>
+// </div>)
+// }
+//  ReactDOM.render(<div><Component/></div>,document.getElementById('root'));
+function Component(){
+    return (<div className="main">
+        <div className="color">
+            <div class="yellow"></div>
+            <div class="yellow"> </div>
+        </div>
+        <div className="color">
+            <div class="red"> </div>
+        </div>
+        <div className="color" id="bluecolor">
+            <div class="blue"> </div>
+            <div class="blue"> </div>
+            <div class="blue"> </div>
+        </div>
+    </div>)
+}
+ ReactDOM.render(<React.StrictMode><Component/></React.StrictMode>,document.getElementById('root'));
 
 </script>
 <!--
