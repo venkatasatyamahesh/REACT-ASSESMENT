@@ -10,12 +10,13 @@ const employee = {
   
 
 
-function App(props) {
+function App({employee}) {
  const {employee}=props;
     
 return(
-  <div className="container">
+  <div className="container">pava
   {/* Start your React code here */}
+  
 </div>
 )
 }
