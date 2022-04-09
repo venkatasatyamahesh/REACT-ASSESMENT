@@ -1,0 +1,93 @@
+ .Header {
+  height: 73px;
+  width: 100%;
+} 
+button {
+  border: black;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 95%;
+  background-color: black;
+  color: white;
+  margin-top: -4px;
+}
+h1 {
+  font-size: 20px;
+  margin-left: 45%;
+}
+.employeeDetail {
+  margin-left: 46%;
+  margin-top: -52px;
+}
+.site-container {
+  height: 12vh;
+  padding: 22px;
+  border: 1px solid;
+}
+.customerinfoWrapper {
+  display: flex;
+  font-size: 16px;
+}.Order-container {
+  padding: 3px;
+}
+.OrderStatus {
+  margin-right: -43px;
+}
+
+
+.customerdetail {
+  font-weight: 300;
+}
+
+input[type="checkbox"] {
+  size: 2px 3px;
+}
+form {
+  width: 50px;
+}
+img {
+  height: 91px;
+  display: inline-block;
+}
+h1 {
+  font-size: 20px;
+  margin-left: 45%;
+}
+p {
+  margin-top: 40px;
+  margin-left: -177px;
+}
+.container {
+  height: 100vh;
+  width: 96%;
+}
+.start {
+  padding: 5px;
+}
+
+.Header {
+  box-shadow: 2px 3px 5px 1px rgb(0 0 0 / 75%);
+  
+}
+.site-container {
+  box-shadow: 2px 1px 5px 0px rgb(0 0 0 / 75%);
+}
+.OrderStatus {
+  display: inline-block;
+  padding: 24px 216px 30px;
+}
+.ProductInfo {
+  display: flex;
+}
+
+.Order-container {
+  padding: 1px;
+  box-shadow: 2px 3px 5px 1px rgb(0 0 0 / 75%);
+}
+.footer {
+  box-shadow: 2px 3px 5px 1px rgb(0 0 0 / 75%);
+}
