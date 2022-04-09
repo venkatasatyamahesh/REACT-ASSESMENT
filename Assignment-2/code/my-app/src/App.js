@@ -1,14 +1,22 @@
-import logo from './logo.svg';
+
 import './App.css';
+const employee = {
+  name: 'Tom',
+  location: 'New York',
+  bloodGroup: 'B+',
+  age: 28,
+  profileImg: 'https://www.w3schools.com/howto/img_avatar.png'
+       }
+  
 
 
-
-function App(props) {
+function App({employee}) {
  const {employee}=props;
     
 return(
-  <div className="container">
+  <div className="container">pava
   {/* Start your React code here */}
+  
 </div>
 )
 }
