@@ -1,0 +1,27 @@
+ 
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://tse4.mm.bing.net/th?id=OIP.mX8xPhgkO1EvGsWqjegq7AHaDu&pid=Api&P=0&w=358&h=180",
+            "date": "12-4-2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://tse1.mm.bing.net/th?id=OIP.E4IJcali_762Oo_vNhhbFgHaEK&pid=Api&P=0&w=276&h=155",
+            "date": "12-4-2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://tse4.mm.bing.net/th?id=OIP.r2MvgHz_DxiOTTWOZthKwAHaEo&pid=Api&P=0&w=261&h=163",
+            "date": "12-4-2022"
+            }
+            ]
+}
