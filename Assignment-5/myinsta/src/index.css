@@ -1,0 +1,109 @@
+
+
+.site-container{
+  text-align: center;
+}
+
+
+html {
+  font-size: 14px;
+}
+body {
+  line-height: 1.5;
+}
+
+
+.propt{
+  height: 15%;
+}
+
+.propt > div{
+  display: inline-block;
+  font-weight: 200;
+}
+
+.dts{
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+/* .dots img{
+  height: 30px;width: 40px;
+} */
+
+
+
+.image > img{
+  height: 100%;
+  width: 100%;
+
+}
+
+.footer{
+  height: 12%;
+}
+
+.footer > div{
+  display: inline-block;
+}
+img {
+  display: block;
+  margin: auto;
+  max-height: 240px;
+}
+
+.View {
+  border: 1px solid #d5d5d5;
+  height: 344px;
+  width: 358px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  margin-left: 578px;
+}
+
+.footer {
+  height: 12%;
+}
+
+.name {
+  margin-top: 5px;
+  margin-left: 20px;
+  font-size: 16px;
+}
+.like {
+  height: 10px;
+  margin-bottom: 20px;
+}
+
+
+.share > img, .like > img {
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.date {
+  float: right;
+  margin-right: 1%;
+  margin-top: -35px;
+  font-size: 18px;
+  font-weight: 100;
+}
+.likecount {
+  margin-left: 20px;
+  color: #3A3B3C;
+}
+.description {
+  font-size: 17px;
+  margin-left: 20px;
+  margin-top: -15px;
+  font-weight: 900;
+}
+.photo{
+  max-height: 240px;
+}
+.LandingPage {display: flex;}
+
+
+
+.BTN {border-radius: 1px solid;border: 1px solid;border-radius: 2px solid;margin-left: 96px;border-radius: 3px;}

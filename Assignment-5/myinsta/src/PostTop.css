@@ -1,0 +1,14 @@
+.PostLevel {
+    display: flex;
+    margin-right: 90px;
+    margin-left: 108px;
+}
+.Start{
+    margin-left: 4%;
+}
+img{
+    display: block;
+    margin: auto;
+    max-height: 240px;
+}
+.Next {margin-left: 80%;margin-top: 3%;}
